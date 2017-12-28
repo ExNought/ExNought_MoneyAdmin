@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:UI_Prototype"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Main" Height="350" Width="525">
     <Grid>
         <Label x:Name="lbl_Accounts" Content="Accounts" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <Label x:Name="lbl_Account_Dumm1" Content="Cash" HorizontalAlignment="Left" Margin="34,41,0,0" VerticalAlignment="Top"/>
